@@ -1,0 +1,31 @@
+_repo: Scenas-de-viagem--13-Explora--o-entre-os-rios-Taquary-e-Aquidauana-no-districto-de-Miranda---__33611
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taunay, Alfredo d'Escragnolle Taunay, Visconde de
+    aliases:
+    - Escragnolle Taunay, Alfredo de
+    - D'Escragnolle Taunay, Alfredo, Visconde de Taunay
+    birthdate: 1843
+    deathdate: 1899
+    gutenberg_agent_id: '36495'
+    url: http://www.gutenberg.org/2009/agents/36495
+    wikipedia: http://pt.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay
+description: ''
+gutenberg_issued: '2010-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33611'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2501'
+- !lcsh 'Taquari River (Rio Grande do Sul, Brazil)'
+title: "Scenas de viagem\r\nExploração entre os rios Taquary e Aquidauana no districto\
+  \ de Miranda : memoria descriptiva"
+url: http://www.gutenberg.org/ebooks/33611
