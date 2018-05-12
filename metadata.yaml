@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36495
     wikipedia: http://pt.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33611#Scenas-de-viagem--13-Explora--o-entre-os-rios-Taquary-e-Aquidauana-no-districto-de-Miranda---_
 gutenberg_issued: '2010-09-02'
 gutenberg_type: Text
 identifiers:
